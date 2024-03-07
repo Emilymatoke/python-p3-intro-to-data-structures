@@ -1,0 +1,30 @@
+sequence - a data structure than stores data and can be accessed in a certain order.
+iterable - can be broken down
+mutable - objects can be changed
+immutable -objects cannot be changed
+list - mutable data type that stores different datas
+tuple - immutable data type that stores different data
+slice - next neighbouring elements in a sequence
+range- data type which stores integers in a particular pattern
+string - immutable data type that stores characters
+
+
+Differences between ses and lists:
+  Lists                                 Sets
+  -indexed                               -unindexed
+  -mutable                               -immutable
+  -elements can be changed               -elements cannot be changed
+
+
+  Data Types that are data structures
+
+  1. sequences:
+      -lists
+      -tuple
+      -string
+
+  2. sets
+  
+  3. dict_map
+  
+
